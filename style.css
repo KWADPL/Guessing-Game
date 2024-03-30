@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: pink;
+  }
+  h1{
+   
+    color: purple;
+  }
+  p{
+    font-size: small;
+  }
+  button{
+    color: palevioletred;
+    border-radius: 50px;
+    background-color: pink;
+    border-color: palevioletred;
+  }
+  input{
+    border-radius: 50px;
+     border-color: palevioletred;
+  }
+  
